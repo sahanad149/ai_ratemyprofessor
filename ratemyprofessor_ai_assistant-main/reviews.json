@@ -1,0 +1,131 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Alice Johnson",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Dr. Johnson is very knowledgeable and passionate about the subject. The classes are engaging, but the workload can be heavy."
+      },
+      {
+        "professor": "Prof. Robert Smith",
+        "subject": "Mathematics",
+        "stars": 5,
+        "review": "Prof. Smith explains complex concepts clearly and is always available for help. Highly recommended!"
+      },
+      {
+        "professor": "Dr. Emily Davis",
+        "subject": "History",
+        "stars": 3,
+        "review": "Dr. Davis is well-organized, but the lectures can be a bit dry. More interactive elements would be helpful."
+      },
+      {
+        "professor": "Dr. Michael Brown",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Dr. Brown makes difficult topics more understandable with real-world examples. Tests are challenging but fair."
+      },
+      {
+        "professor": "Prof. Sarah Wilson",
+        "subject": "Chemistry",
+        "stars": 2,
+        "review": "Prof. Wilson's classes are difficult to follow, and there is little feedback on assignments."
+      },
+      {
+        "professor": "Dr. David Lee",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Dr. Lee is an excellent teacher with a lot of industry experience. The projects are practical and relevant."
+      },
+      {
+        "professor": "Prof. Jessica Taylor",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Prof. Taylor presents material clearly and encourages critical thinking. The course is well-structured."
+      },
+      {
+        "professor": "Dr. William Martinez",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "Dr. Martinez is knowledgeable, but the course could benefit from more interactive activities."
+      },
+      {
+        "professor": "Prof. Olivia Anderson",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "Prof. Anderson is incredibly insightful and engages students in deep discussions. A truly enriching experience."
+      },
+      {
+        "professor": "Dr. James Thomas",
+        "subject": "Engineering",
+        "stars": 4,
+        "review": "Dr. Thomas is a skilled lecturer with a knack for making complex problems understandable. The labs are very informative."
+      },
+      {
+        "professor": "Prof. Ava Jackson",
+        "subject": "English Literature",
+        "stars": 4,
+        "review": "Prof. Jackson's passion for literature is evident. The readings are thought-provoking, though some assignments can be overwhelming."
+      },
+      {
+        "professor": "Dr. Benjamin Harris",
+        "subject": "Sociology",
+        "stars": 3,
+        "review": "Dr. Harris provides good foundational knowledge, but the course could use more real-life examples."
+      },
+      {
+        "professor": "Prof. Sophia Clark",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Prof. Clark is an exceptional teacher with a deep knowledge of art history. The lectures are engaging and informative."
+      },
+      {
+        "professor": "Dr. Daniel Lewis",
+        "subject": "Political Science",
+        "stars": 2,
+        "review": "Dr. Lewis' lectures are often disorganized and lack clarity. The grading can be inconsistent."
+      },
+      {
+        "professor": "Prof. Mia Robinson",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Prof. Robinson is very passionate about the subject and incorporates current events into the lessons. Highly engaging."
+      },
+      {
+        "professor": "Dr. Ethan Walker",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "Dr. Walker provides a solid introduction to statistics, but the pace of the course can be too fast for some students."
+      },
+      {
+        "professor": "Prof. Isabella Hall",
+        "subject": "French",
+        "stars": 4,
+        "review": "Prof. Hall is a great language instructor with effective teaching methods. The class is interactive and enjoyable."
+      },
+      {
+        "professor": "Dr. Alexander Young",
+        "subject": "Geology",
+        "stars": 5,
+        "review": "Dr. Young's enthusiasm for geology is infectious. The field trips and hands-on activities are excellent."
+      },
+      {
+        "professor": "Prof. Charlotte King",
+        "subject": "Music Theory",
+        "stars": 4,
+        "review": "Prof. King is knowledgeable and passionate. The class can be challenging but rewarding for those interested in music theory."
+      },
+      {
+        "professor": "Dr. Henry Wright",
+        "subject": "Biochemistry",
+        "stars": 3,
+        "review": "Dr. Wright has a deep understanding of biochemistry but struggles with making the material engaging for students."
+      },
+      {
+        "professor": "Prof. Amelia Scott",
+        "subject": "Creative Writing",
+        "stars": 5,
+        "review": "Prof. Scott provides valuable feedback and fosters a supportive environment for creative expression. Highly recommended."
+      }
+    ]
+  }
+  
